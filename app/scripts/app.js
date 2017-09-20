@@ -35,4 +35,9 @@ angular
   });
   .controllers("abcCtl",function(){
     console.log("log");
+    console.log("log");
+    console.log("log");
+    console.log("log");
+    console.log("log");
+    console.log("log");
   })
