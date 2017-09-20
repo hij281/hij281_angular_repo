@@ -33,3 +33,6 @@ angular
         redirectTo: '/'
       });
   });
+  .controllers("abcCtl",function(){
+    console.log("log");
+  })
